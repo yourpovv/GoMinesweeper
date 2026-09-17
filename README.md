@@ -6,6 +6,8 @@
 
 [![GitHub](https://img.shields.io/github/stars/yourpovv/GoMinesweeper?style=social)](https://github.com/yourpovv/GoMinesweeper)
 
+https://github.com/user-attachments/assets/2b8f58d8-91b9-4c55-8c07-4ba76ff7d136
+
 </div>
 
 ## Requirements
